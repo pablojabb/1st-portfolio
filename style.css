@@ -637,8 +637,8 @@ svg {
   padding: 1.5rem;
   flex: 1;
   border-radius: 2rem;
-  background: wheat;
-  border:black 0.1rem solid;
+  background: var(--icon-theme);
+  border:var(--color-container) 0.1rem solid;
   text-align: center;
   line-height: 2rem;
 }
